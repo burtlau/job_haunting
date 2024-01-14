@@ -8,7 +8,7 @@
 # Daily Log - January 14, 2024
 
 ## Tasks
-- [] work on material <java core>
-- [] update resume
-- [] update cover letter
+- [ ] work on material 'java core'
+- [ ] update resume
+- [ ] update cover letter
 
