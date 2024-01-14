@@ -19,13 +19,11 @@
 ## Engineering Skills
 1. Clean Code / Test-Driven Development (TDD).
 - Clean Code in Java - Jeff Langr
-
-2. Technical writing / Creating design diagrams using UML (case by case).
-- Junit & Mockito
-
 - Test-Driven Development by Example - Kent Beck
 - JUnit in Action - Petar Tahchiev、Felipe Leme and Vincent Masso
 
+2. Technical writing / Creating design diagrams using UML (case by case).
+- Junit & Mockito
 
 # Others
 1. job description asked for: 
