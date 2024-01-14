@@ -1,0 +1,45 @@
+SKILLS
+
+Expeirienced Programming Language: Python, Java, C, C++, C# and .NET
+Relational Database Management tools: MySQL, Postgresql and Mongo DB 
+Frontend Programming tools: React.js, HTML,CSS
+Saas technologies: AWS, Google cloud 
+Familiarized with Linux environment; Git and Experience with Gitlab CI/CD;  
+Software Development knowledge : SOLID principles, OOP concepts and SDLC methodologies 
+
+
+WORK EXPERIENCE
+
+*Software Engineer, VR Visdom Technology Co.,Ltd 
+- Developed a tailored self-service drawing tool for RNG Company using React.js. 
+- Incorporated unique visual elements, allowing intuitive diagram creation with personalized nodes, links.
+- Applied innovative methodologies to efficiently extract eye gaze data from Android camera sources.
+- Provided assistance in developing a CNN models with PyTorch framework for improved analysis. 
+- Engaged in refining parameters through the model's training process, lead to an improvement in precision.
+- Executed data refinement processes to ensure high-quality and reliable eye gaze data for further deployment
+
+*Software Engineer in R&D Department, Momenta
+- Divised a systematic approach to validate road measurement data from the auto-pilot team. 
+- Developed docker images to facilitate streamlined deployment for downstream valuation teams for testing.
+- Utilized flame graph analysis to dissect evaluation project runtime and CPU usage.
+- Implemented parallel programming, and memory-efficient data structures to drastically reduce the project runtime.
+- Achieved a 95% efficiency boost, and optimized the processing time of a 200km-route dataset to 10 mins.
+- Implemented binary and encrypted format for efficient storage and management of compared datasets in SQL.
+
+
+PROJECT EXPERIENCE 
+
+*Android Pet game, Java programming and SQL project
+- Developed a pet nurturing game in Java, integrating MySQL database storing pet information and player credentials
+- Crafted an intuitive UI to interact with virtual pets, along with a dynamic 2D platform jumping game.
+- Integrated SOLID principles along with behavioral patterns and enabling incorporation of additional pets and games.
+
+*Spotify Recommendation and Analysis, Typescript and python Project 
+- Developed a music recommendation and analysis platform using TypeScript and Vue.js.
+- Integrated a Spotify Million Playlist dataset-trained machine learning model for accurate song recommendations.
+- Utilized Flask, Docker, and CI/CD for optimizing deployment, maintenance and release processes.
+
+*AI singer cover, So-vits-svc Project
+- Executed  the AI Singer Cover project, utilizing UVR5 for track splitting and dataset preparation.
+- Explored on-cloud training using GPU to optimize resource utilization, mitigating CUDA memory constraints.
+- Fine-tuned deduction parameters and achieved advancements in model performance and accuracy.

@@ -1,0 +1,39 @@
+Sept 1st, 2023
+Main Office
+Finch 
+
+Dear recruiter, 
+
+I am drawn to this great opportunity to work as a Software Engineer at Finch because of Finch’s influence on investment field, 
+dynamic corporate culture, reputation of diverse development opportunities for employees, which I believe are the determined 
+factors for any successful businesses. I particularly interested in this position as I am very certain with my programming 
+work experience dealing with computer science related issues, great knowledge in computer programming tools including Python, 
+Java programming and C, outstanding problem solving skills and strong learning ability will make an ideal candidate for this 
+role.
+
+I have graduated as computer science specialist from University of Toronto, concentrated in game design and artificial intelligence. 
+Besides building solid knowledge fundamental such as algorithms, data structure or system optimization from school, I had been 
+actively involved in multiple computer science projects which have allowed me to develop strong programming skills such as python 
+or Java that will help me succeed in this position. For example, I had participated in a python programming project. 
+My primary responsibilities are designing simplified codes as well as utilizing key programming functions such as strings, lists, 
+loop to improve the game, debugging and modifying the improper programming codes to ensure the designed game works functionally. 
+As a result, I aced this project and received excellent feedback from professor. This great project experience strengthened 
+my strong python programming skills and problem solving skills in a dynamic and deadline-driven working environment.
+
+Beside strong knowledge in and various programming tools and excellent computer science project experience, I had received 
+the internship in computer science related area to further boost my technical expertise in troubleshooting and debugging. 
+Being as a Software Engineer at VRVisdom Technology. My major duties include determining the optimal project logic 
+implementations and incorporated the best design patterns to clarify and simplify the game, and proactively investigating, 
+discovering and debugging multiple logical/application/driver blockers which strongly reinforced software and user experience.
+As a result, I had not only learnt practical experience in troubleshooting, but also strengthened issue identification skills
+and felt very confident with handling various programming problems. I have no doubt that my past work experience will 
+doubtlessly help me to get ready for this role in time. With all best effort, long-term commitment in better myself, 
+I have every reason believe I will be exactly the kind of person that you are looking for as a Software Engineer.
+
+I would like to work as a Software Engineer at Finch , but I am also willing to consider any other relevant positions that
+I am eligible for. Thank you for your time and consideration. I would welcome the interview opportunity to speak with you
+soon to further discuss my qualification. 
+
+Best regards, 
+
+Burt Liu
