@@ -1,3 +1,9 @@
+import java.util.Scanner;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.io.IOException;
+import java.nio.file.Files;
+
 public class FirstSample
 {
     public static void main(String[] args)
@@ -23,7 +29,22 @@ public class FirstSample
 //        builder.append("Hello, ");
 //        builder.append("world!");
 //        System.out.println(builder.toString());
-        
+
+    // Scanner scanner = new Scanner(System.in);
+    // System.out.println("enter sth a: ");
+    // String a = scanner.nextLine();
+    // System.out.println("enter sth b: ");
+    // String b = scanner.nextLine();
+    // System.out.println("enter sth c d: ");
+    // String c = scanner.next();
+    // String d = scanner.next();
+    // System.out.println("abcd = " + a + b + c + d);
+
+    
+
+
+
+
 
     }
 }
