@@ -14,6 +14,7 @@
 - MongoDB: The Definitive Guide
 
 4. HTTP/API, system design, and the database layer/process.
+- courses on https://youtube.com/@ByteByteGo?si=KMC7Ez7LbEgClcVz
 
 
 ## Engineering Skills
