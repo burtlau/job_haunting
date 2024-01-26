@@ -2,7 +2,7 @@ package chap12_GeneralProgramming;
 
 public class PairTestII {
     public static void main(String[] args) {
-        int[] intArray = {1, 9, 352, 35, 0, 24};
+        Integer[] intArray = {1, 9, 352, 35, 0, 24};
         Pair<Integer> pair = IntArrayAlg.minmax(intArray);
         assert pair != null;
         System.out.println("min = " + pair.getFirst());
@@ -12,7 +12,7 @@ public class PairTestII {
 
 class IntArrayAlg
 {
-    public static Pair<Integer> minmax(int[] intArray)
+    public static Pair<Integer> minmax(Integer[] intArray)
     {
         if (intArray == null | intArray.length == 0) return null;
         int min = intArray[0];

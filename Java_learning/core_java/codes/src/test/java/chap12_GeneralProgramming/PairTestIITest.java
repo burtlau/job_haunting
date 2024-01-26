@@ -7,7 +7,7 @@ import static org.junit.Assert.*;
 public class PairTestIITest {
     @Test
     public void intArrayAlgTest(){
-        int[] newArray = {4, -2, 3, 0, 100};
+        Integer[] newArray = {4, -2, 3, 0, 100};
         Pair<Integer> pair = IntArrayAlg.minmax(newArray);
         int min = pair.getFirst();
         int max = pair.getSecond();
