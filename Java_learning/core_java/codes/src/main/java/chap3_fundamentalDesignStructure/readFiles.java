@@ -1,3 +1,5 @@
+package chap3_fundamentalDesignStructure;
+
 import java.util.Scanner;
 import java.nio.file.Path;
 import java.nio.file.Paths;

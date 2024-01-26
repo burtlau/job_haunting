@@ -1,5 +1,7 @@
+package chap3_fundamentalDesignStructure;
+
 import java.util.Arrays;
-public class arrayHandle{
+public class arrayHandler{
     public static void main(String[] args){
         int[] intArray = new int[4];
         int original = 2;

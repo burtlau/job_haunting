@@ -1,3 +1,5 @@
+package chap3_fundamentalDesignStructure;
+
 public class stringBuilder {
     public static void main(String[] args){
         StringBuilder builder = new StringBuilder();
