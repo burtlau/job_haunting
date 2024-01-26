@@ -22,7 +22,7 @@ public class ExceptionChainingTest {
         assertEquals("Database connection error", sqle.getMessage());
         assertEquals(0, sqle.getErrorCode());
         assertEquals(null, sqle.getSQLState());
-        
+
     }
 
 }
