@@ -1,5 +1,9 @@
 package chap12_GeneralProgramming;
 
+
+/**
+ * @param <T> generic type parameter T.
+ */
 public class Pair<T> {
     private T first;
     private T second;

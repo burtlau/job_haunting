@@ -1,4 +1,4 @@
 import static org.junit.Assert.*;
-public class SafeVarargsExampleTest {
+public class PairTestIVTest {
   
 }
