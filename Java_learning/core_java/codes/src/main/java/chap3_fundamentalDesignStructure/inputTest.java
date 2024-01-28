@@ -1,3 +1,5 @@
+package chap3_fundamentalDesignStructure;
+
 import java.util.Scanner;
 
 public class inputTest {
