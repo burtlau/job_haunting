@@ -1,4 +1,4 @@
-package chap12_GeneralProgramming;
+package chap12_GenericProgramming;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;
@@ -21,7 +21,7 @@ class ArrayAlg3
 {
     public static <T extends Comparable> Pair<T> minmax(T[] a)
     {
-        if (a == null | a.length == 0) return null;
+        if (a == null || a.length == 0) return null;
         T min = a[0];
         T max = a[0];
         for (int i = 1; i < a.length ; i++)

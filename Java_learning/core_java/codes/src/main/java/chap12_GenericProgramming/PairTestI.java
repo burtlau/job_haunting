@@ -1,4 +1,4 @@
-package chap12_GeneralProgramming;
+package chap12_GenericProgramming;
 
 public class PairTestI {
     public static void main(String[] args) {

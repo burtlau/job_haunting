@@ -1,4 +1,4 @@
-package chap12_GeneralProgramming;
+package chap12_GenericProgramming;
 
 import java.util.ArrayList;
 import java.util.List;

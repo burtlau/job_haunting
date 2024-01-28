@@ -1,4 +1,4 @@
-package chap12_GeneralProgramming;
+package chap12_GenericProgramming;
 
 public class PairTestII {
     public static void main(String[] args) {
@@ -14,7 +14,7 @@ class IntArrayAlg
 {
     public static Pair<Integer> minmax(Integer[] intArray)
     {
-        if (intArray == null | intArray.length == 0) return null;
+        if (intArray == null || intArray.length == 0) return null;
         int min = intArray[0];
         int max = intArray[0];
         for (int i = 1; i < intArray.length; i++) {
