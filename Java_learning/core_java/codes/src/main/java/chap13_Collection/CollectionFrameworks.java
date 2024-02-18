@@ -2,7 +2,7 @@ package chap13_Collection;
 
 import java.util.*;
 
-public class CollectionAlgorithm {
+public class CollectionFrameworks {
     public static void main(String[] args) {
 //      Collections.copy (need size >= original )
         List<Integer> integerList = new LinkedList<>(Arrays.asList(1,21,0,-2,4,10));

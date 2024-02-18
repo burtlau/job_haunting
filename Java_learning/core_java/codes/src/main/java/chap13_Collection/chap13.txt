@@ -1,0 +1,13 @@
+1. WeakHashMap<>: is held using weak references, when a key become unreachable, it can be garbage collected.
+System.gc();
+
+2.LinkedHashSet<> / LinkedHashMap<> : Combine with linkedlist and hashmap time complexity is O(1)
+for put/get/remove/contain. Consumes slightly more memory than HashMap.
+
+3.EnumSet<T> / EnumMap<T, U>
+
+4.IdentityHashMap use System.identityHashCode instead of hash code to calculate value.
+
+5.Collection = {List, Set{Sorted set{Navigable set}}, Queue{Deque}} and Map = {SortedMap{Navigable Map}}
+
+6.Collections that has no duplicates in : Set/HashSet/LinkedHashSet/TreeSet

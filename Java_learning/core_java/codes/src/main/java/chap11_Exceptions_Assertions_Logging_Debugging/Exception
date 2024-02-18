@@ -1,0 +1,32 @@
+1. Exception: Checked / Unchecked(Runtime Exception)
+Checked:
+IOException
+SQLException
+FileNotFoundException
+ClassNotFoundException
+NoSuchMethodException
+ParseException
+InterruptedException
+InstantiationException
+IllegalAccessException
+CloneNotSupportedException
+NoSuchFieldException
+InvalidClassException
+
+
+UnChecked :
+NullPointerException
+ArrayIndexOutOfBoundsException
+ArithmeticException
+IllegalArgumentException
+ClassCastException
+IllegalStateException
+NumberFormatException
+IndexOutOfBoundsException
+ConcurrentModificationException
+UnsupportedOperationException
+StackOverflowError
+OutOfMemoryError
+IllegalArgumentException
+AssertionError
+Error
